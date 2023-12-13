@@ -1,0 +1,10 @@
+.products{
+    color:rgba(98, 0, 255, 0.363);
+    font-size:25px;
+}
+
+.container{
+    margin-top: 240px !important;
+    display: flex;
+    justify-content: center ;
+}
